@@ -1,0 +1,47 @@
+{
+  "intro": "Piezas y productos disponibles. Integracion de pagos pendiente.",
+  "products": [
+    {
+      "id": "producto-1",
+      "name": "Print A3 - Edicion 1",
+      "price": 450,
+      "description": "Print numerado en papel fine art.",
+      "available": true,
+      "media": [
+        {
+          "type": "image",
+          "src": "/media/tienda/producto-1-1.svg",
+          "alt": "Producto 1"
+        }
+      ]
+    },
+    {
+      "id": "producto-2",
+      "name": "Sticker Pack",
+      "price": 150,
+      "description": "Set de 5 stickers vinilo.",
+      "available": true,
+      "media": [
+        {
+          "type": "image",
+          "src": "/media/tienda/producto-2-1.svg",
+          "alt": "Producto 2"
+        }
+      ]
+    },
+    {
+      "id": "producto-3",
+      "name": "Print A3 - Edicion 2",
+      "price": 450,
+      "description": "Print numerado en papel fine art.",
+      "available": false,
+      "media": [
+        {
+          "type": "image",
+          "src": "/media/tienda/producto-3-1.svg",
+          "alt": "Producto 3"
+        }
+      ]
+    }
+  ]
+}

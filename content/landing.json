@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "headline": "AKIRA",
+    "subheadline": "Artista / Animador Digital Mexico-Japones",
+    "media": {
+      "type": "image",
+      "src": "/media/landing/hero.jpg",
+      "alt": "Imagen principal de Akira"
+    }
+  },
+  "highlights": [
+    {
+      "title": "Ilustracion",
+      "description": "Piezas digitales originales inspiradas en la cultura mexico-japonesa.",
+      "media": {
+        "type": "image",
+        "src": "/media/landing/highlight-1.svg",
+        "alt": "Highlight de ilustracion"
+      }
+    },
+    {
+      "title": "Animacion",
+      "description": "Cortos y loops animados para proyectos personales y comerciales.",
+      "media": {
+        "type": "image",
+        "src": "/media/landing/highlight-2.svg",
+        "alt": "Highlight de animacion"
+      }
+    },
+    {
+      "title": "Colaboraciones",
+      "description": "Trabajo con marcas y artistas en proyectos especiales.",
+      "media": {
+        "type": "image",
+        "src": "/media/landing/highlight-3.svg",
+        "alt": "Highlight de colaboraciones"
+      }
+    }
+  ]
+}

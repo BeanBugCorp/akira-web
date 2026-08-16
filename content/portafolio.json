@@ -1,0 +1,57 @@
+{
+  "intro": "Una seleccion de proyectos de ilustracion y animacion.",
+  "projects": [
+    {
+      "id": "proyecto-1",
+      "title": "Proyecto 1",
+      "category": "Ilustracion",
+      "description": "Descripcion breve del proyecto 1.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/media/portafolio/proyecto-1-1.svg",
+          "alt": "Proyecto 1 - imagen 1"
+        }
+      ]
+    },
+    {
+      "id": "proyecto-2",
+      "title": "Proyecto 2",
+      "category": "Animacion",
+      "description": "Descripcion breve del proyecto 2.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/media/portafolio/proyecto-2-1.svg",
+          "alt": "Proyecto 2 - imagen 1"
+        }
+      ]
+    },
+    {
+      "id": "proyecto-3",
+      "title": "Proyecto 3",
+      "category": "Ilustracion",
+      "description": "Descripcion breve del proyecto 3.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/media/portafolio/proyecto-3-1.svg",
+          "alt": "Proyecto 3 - imagen 1"
+        }
+      ]
+    },
+    {
+      "id": "proyecto-4",
+      "title": "Proyecto 4",
+      "category": "Animacion",
+      "description": "Descripcion breve del proyecto 4.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/media/portafolio/proyecto-4-1.svg",
+          "alt": "Proyecto 4 - imagen 1"
+        }
+      ]
+    }
+  ]
+}

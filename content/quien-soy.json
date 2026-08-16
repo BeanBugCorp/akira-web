@@ -1,0 +1,30 @@
+{
+  "title": "Quien soy",
+  "bio": [
+    "Soy Akira, artista y animador digital mexico-japones.",
+    "Mi trabajo mezcla estetica tradicional japonesa con influencias contemporaneas mexicanas.",
+    "Actualmente trabajo en proyectos personales y colaboraciones con marcas."
+  ],
+  "portrait": {
+    "type": "image",
+    "src": "/media/quien-soy/retrato.svg",
+    "alt": "Retrato de Akira"
+  },
+  "gallery": [
+    {
+      "type": "image",
+      "src": "/media/quien-soy/galeria-1.svg",
+      "alt": "Galeria imagen 1"
+    },
+    {
+      "type": "image",
+      "src": "/media/quien-soy/galeria-2.svg",
+      "alt": "Galeria imagen 2"
+    },
+    {
+      "type": "image",
+      "src": "/media/quien-soy/galeria-3.svg",
+      "alt": "Galeria imagen 3"
+    }
+  ]
+}
