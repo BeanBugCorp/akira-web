@@ -21,8 +21,8 @@ export default function PortfolioNav({
                 aria-current={isActive ? "page" : undefined}
                 className={
                   isActive
-                    ? "font-semibold text-white"
-                    : "text-white/60 hover:text-white"
+                    ? "font-semibold text-red-600"
+                    : "font-semibold text-red-600 hover:text-red-800"
                 }
               >
                 {category.label}
