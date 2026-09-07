@@ -35,7 +35,7 @@ export default async function PortfolioCategoryPage({
       <div className="mt-12 grid grid-cols-1 gap-10 sm:grid-cols-2">
         {projects.map((project) => (
           <article key={project.id} className="flex flex-col gap-3">
-            <div className="relative aspect-[4/3] w-full overflow-hidden rounded-lg">
+            <div className="relative aspect-4/3 w-full overflow-hidden rounded-lg">
               <Media media={project.media[0]} className="object-cover" />
             </div>
             <span className="text-xs uppercase tracking-wide text-white/50">
