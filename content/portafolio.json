@@ -1,10 +1,17 @@
 {
   "intro": "Una seleccion de proyectos de ilustracion y animacion.",
+  "defaultCategorySlug": "animacion-storyboard",
+  "categories": [
+    { "slug": "animacion-storyboard", "label": "Animación & Story board" },
+    { "slug": "ilustracion-comics", "label": "Ilustración & Comics" },
+    { "slug": "concept-art", "label": "Concept Art" },
+    { "slug": "personal-miscelanea", "label": "Personal & Miscelánea" }
+  ],
   "projects": [
     {
       "id": "proyecto-1",
       "title": "Proyecto 1",
-      "category": "Ilustracion",
+      "categorySlug": "animacion-storyboard",
       "description": "Descripcion breve del proyecto 1.",
       "media": [
         {
@@ -17,7 +24,7 @@
     {
       "id": "proyecto-2",
       "title": "Proyecto 2",
-      "category": "Animacion",
+      "categorySlug": "ilustracion-comics",
       "description": "Descripcion breve del proyecto 2.",
       "media": [
         {
@@ -30,7 +37,7 @@
     {
       "id": "proyecto-3",
       "title": "Proyecto 3",
-      "category": "Ilustracion",
+      "categorySlug": "concept-art",
       "description": "Descripcion breve del proyecto 3.",
       "media": [
         {
@@ -43,7 +50,7 @@
     {
       "id": "proyecto-4",
       "title": "Proyecto 4",
-      "category": "Animacion",
+      "categorySlug": "personal-miscelanea",
       "description": "Descripcion breve del proyecto 4.",
       "media": [
         {

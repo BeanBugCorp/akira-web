@@ -19,16 +19,23 @@ export type LandingData = {
   }[];
 };
 
+export type PortfolioCategory = {
+  slug: string;
+  label: string;
+};
+
 export type PortfolioProject = {
   id: string;
   title: string;
-  category: string;
+  categorySlug: string; // references PortfolioCategory.slug
   description: string;
   media: MediaItem[];
 };
 
 export type PortfolioData = {
   intro: string;
+  defaultCategorySlug: string; // which category bare /portafolio redirects to
+  categories: PortfolioCategory[];
   projects: PortfolioProject[];
 };
 
